@@ -16,13 +16,13 @@
 - MySQL Workbench. (password must not contain @ symbol)
 
 ## Languages Used:
-    - Python
-    - HTML, JavaScript, CSS
+- Python
+- HTML, JavaScript, CSS
 
 ## To install dependencies:
-    
-    - pip install -r requirements.txt
-    
+    ```
+        pip install -r requirements.txt
+    ```
 
 ### Run code:
     - Open Terminal in Vs code and type and change to the root directory where run file is present.
