@@ -1,0 +1,5 @@
+flask
+firebase_admin
+mysql-connector-python
+pymysql
+pytz
