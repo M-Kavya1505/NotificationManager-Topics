@@ -19,10 +19,10 @@
 - Python
 - HTML, JavaScript, CSS
 
-## To install dependencies:
-    ```
-        pip install -r requirements.txt
-    ```
+## To install all the dependencies:
+   ```
+     pip install -r requiremnts.txt
+   ```
 
 ### Run code:
     - Open Terminal in Vs code and type and change to the root directory where run file is present.
