@@ -25,7 +25,7 @@
    ```
 
 ## Run code:
-- Open Terminal in Vs code and type and change to the root directory where run file is present.
+- Open Terminal in VS Code and type and change to the root directory where run file is present.
    ```
     python run.py
    ```
