@@ -1,4 +1,4 @@
-[]
+
 # Firebase Notification - Topics
 
 ## Description:
