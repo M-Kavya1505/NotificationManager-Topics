@@ -9,11 +9,11 @@
 - Able to send notifications to subscribed topics.
 
 ## Tools:
-    - Firebase Cloud Messaging (FCM)
-    - Firebase Console
-    - Visual Studio Code (VS Code)
-    - Android Studio
-    - MySQL Workbench. (password must not contain @ symbol)
+- Firebase Cloud Messaging (FCM)
+- Firebase Console
+- Visual Studio Code (VS Code)
+- Android Studio
+- MySQL Workbench. (password must not contain @ symbol)
 
 ## Languages Used:
     - Python
