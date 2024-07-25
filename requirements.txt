@@ -1,5 +1,7 @@
 flask
 firebase_admin
-mysql-connector-python
+flask-SQLAlchemy
+flask_migrate
+flask_login
 pymysql
-pytz
+mysql-connector-python
